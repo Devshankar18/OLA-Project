@@ -1,3 +1,5 @@
+-- Creating a table
+
 CREATE TABLE Bookings (
     Date DATE,
     Time TIME,
